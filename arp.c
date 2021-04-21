@@ -19,7 +19,7 @@
 #include "ethernet.h"
 #include "aal5.h"
 #include "utillib.h"	// for swap16
-
+extern BOOL test1;
 extern BOOL gMiroStandingBy;
 extern PEthernetContext gPEthernetContext[2];
 
