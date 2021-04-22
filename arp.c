@@ -20,6 +20,7 @@
 #include "aal5.h"
 #include "utillib.h"	// for swap16
 
+BOOL gServerAdd;
 extern BOOL gMiroStandingBy;
 extern PEthernetContext gPEthernetContext[2];
 
